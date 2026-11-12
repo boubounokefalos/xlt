@@ -13,7 +13,7 @@ music, videos, pictures and files one button away.
 
 **The walk-through** (43 s, no sound):
 
-https://github.com/user-attachments/assets/8a8b6d9c-2911-440b-8bee-aa6fddfd5556
+https://github.com/user-attachments/assets/9d6550f0-c342-49eb-9dcf-0f1bcd3a4f90
 
 > Everything in the screenshots and videos is made up, rendered on a PC from XLT's own drawing code:
 > the games, songs, artists and artwork are invented, so none of it belongs to anyone.
