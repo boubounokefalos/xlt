@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.prx
+PARAM.SFO
+EBOOT.PBP
+build/
+*.d
+__pycache__/
